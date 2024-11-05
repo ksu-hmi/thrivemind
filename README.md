@@ -8,7 +8,7 @@ ThriveMind is a mental health app designed to help users improve their mental we
 - **Calming Music**: A selection of soothing tracks to create a relaxing environment.
 - **Community Support**: A platform for users to connect with others, share experiences, and provide mutual support.
 - **Tips and Techniques**: Practical advice and strategies for managing mental health challenges.
-- 
+  
 ## Project Roadmap
 
 
