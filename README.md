@@ -8,3 +8,19 @@ ThriveMind is a mental health app designed to help users improve their mental we
 - **Calming Music**: A selection of soothing tracks to create a relaxing environment.
 - **Community Support**: A platform for users to connect with others, share experiences, and provide mutual support.
 - **Tips and Techniques**: Practical advice and strategies for managing mental health challenges.
+- 
+## Project Roadmap
+
+
+
+- [ ] **Set up project structure**: Initialize app structure, configure repositories, and set up basic files. -Jalyn
+- [ ] **Design user interface**: Create wireframes and layout for breathing exercises, calming music, and community support sections. -Jalyn
+- [ ] **Implement breathing exercises functionality**: Develop the breathing exercise feature with instructions and timers. -Jalyn
+- [ ] **Curate calming music tracks**: Select and upload calming music tracks for the music section. -Jalyn
+
+
+
+- [ ] **Develop community support features**: Set up forums, chat systems, or any social features to facilitate community support. Jalyn
+- [ ] **Add tips and techniques section**: Create a resource section with mental health tips, self-care techniques, and mindfulness practices. Jalyn
+- [ ] **Conduct user testing**: Run a small user testing group to gather feedback on the features. Jalyn
+
