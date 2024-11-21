@@ -1,0 +1,4 @@
+mkdir app
+mkdir app/static app/templates
+mkdir tests
+touch app/__init__.py app/routes.py app/models.py requirements.txt .gitignore run.py
