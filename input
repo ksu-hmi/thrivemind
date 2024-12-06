@@ -1,0 +1,35 @@
+import random
+
+# Dictionary of emotions with corresponding quotes and exercises
+responses = {
+    "sad": {
+        "quote": "Keep your face always toward the sunshine—and shadows will fall behind you. - Walt Whitman",
+        "exercise": "Take a walk outside and enjoy nature."
+    },
+    "happy": {
+        "quote": "Happiness is not something ready-made. It comes from your own actions. - Dalai Lama",
+        "exercise": "Share your happiness with someone by calling a friend or family member."
+    },
+    "depressed": {
+        "quote": "You are never too old to set another goal or to dream a new dream. - C.S. Lewis",
+        "exercise": "Try a short meditation or deep breathing exercise."
+    },
+    "down": {
+        "quote": "The only way to do great work is to love what you do. - Steve Jobs",
+        "exercise": "Do a quick workout or some stretching exercises."
+    }
+}
+
+# Function to get a response based on emotion
+def get_response(emotion):
+    if emotion in responses:
+        response = responses[emotion]
+        return f"Motivational Quote: {response['quote']}\nRecommended Exercise: {response['exercise']}"
+    else:
+        return "Sorry, I don't have a response for that emotion."
+
+# Main program
+if __name__ == "__main__":
+    user_emotion = input("How are you feeling today (sad, happy, depressed, down)? ").lower()
+    print(get_response(user_emotion))
+
